@@ -17,6 +17,8 @@ The dataset contains five variables: sepal length, sepal width, petal length, pe
 ## 4. Create a more complex plot
 
 Re-create the above plot, but this time plot the setosa data points in red, the versicolor data point in green, and the virginica data points in blue. Setosa, versicolor, and virginica are the three possible values of the species variable. Add a legend to the plot showing which species is in which colour.
+[![N|Solid](https://github.com/heanuea/Problem-set-Jupyter-pyplot-and-numpy/blob/master/04ComplexPlot.jpg)](https://github.com/heanuea/Problem-set-Jupyter-pyplot-and-numpy/blob/master/05.SeaBorn.py/nsolid)
+
 
 ## 5. Use seaborn
 
