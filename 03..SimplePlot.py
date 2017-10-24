@@ -5,7 +5,7 @@ pl.rcParams['figure.figsize'] = (16.0, 8.0)
 
 
 # Load data
-OriginalData = np.loadtxt("data.csv",str, delimiter=",", skiprows=1, unpack=True)
+OriginalData = np.loadtxt("Iris.csv",str, delimiter=",", skiprows=1, unpack=True)
 # Transposing the data
 data = OriginalData.transpose()
 # get each column
