@@ -21,7 +21,7 @@ Re-create the above plot, but this time plot the setosa data points in red, the 
 ## 5. Use seaborn
 
 Use the seaborn library to create a scatterplot matrix of all five variables.
-[![N|Solid](https://github.com/heanuea/Problem-set-Jupyter-pyplot-and-numpy/blob/master/Seaborn.jpg)](https://neo4j.com/nsolid)
+[![N|Solid](https://github.com/heanuea/Problem-set-Jupyter-pyplot-and-numpy/blob/master/Seaborn.jpg)](https://github.com/heanuea/Problem-set-Jupyter-pyplot-and-numpy/blob/master/05.SeaBorn.py/nsolid)
 
 ## 6. Fit a line
 
