@@ -1,0 +1,8 @@
+###  **_2. Write a note about the data set_**
+To download this data into an Excel spreadsheet, click on [Fisher's Iris](https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh-pages/data/iris.csv)
+
+Introduction
+From the Wikipedia article “Iris flower data set” (https://en.wikipedia.org/wiki/Iris_flower_data_set)
+
+The Iris flower data set or Fisher’s Iris data set is a multivariate data set introduced by Ronald Fisher in his 1936 paper ``The use of multiple measurements in taxonomic problems as an example of linear discriminant analysis’’. It is sometimes called Anderson’s Iris data set because Edgar Anderson collected the data to quantify the variation of Iris flowers.
+The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimetres.
