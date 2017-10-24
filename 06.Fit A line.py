@@ -26,5 +26,5 @@ plt.ylabel('Sepal width')
 pl.xlabel('petal length')
 pl.ylabel('petal width')
 
-# Show the plot.
+
 pl.show()
