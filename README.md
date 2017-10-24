@@ -1,4 +1,4 @@
-### **_Problem set: Jupyter, pyplot and numpy_** 
+# **_Problem set: Jupyter, pyplot and numpy_** 
 
 These problems relate to Jupyter, numpy, and pyplot. We will use the famous iris data set. Save your work as a single Jupyter notebook file in a GitHub repository. Include any required data files, a README, and a gitignore file in the repository.
 
@@ -21,6 +21,7 @@ Re-create the above plot, but this time plot the setosa data points in red, the 
 ## 5. Use seaborn
 
 Use the seaborn library to create a scatterplot matrix of all five variables.
+[![N|Solid](https://github.com/heanuea/Problem-set-Jupyter-pyplot-and-numpy/blob/master/Seaborn.jpg)](https://github.com/heanuea/Problem-set-Jupyter-pyplot-and-numpy/blob/master/05.SeaBorn.py/nsolid)
 
 ## 6. Fit a line
 
